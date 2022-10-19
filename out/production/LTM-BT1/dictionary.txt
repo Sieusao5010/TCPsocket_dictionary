@@ -1,0 +1,6 @@
+school;trường học
+hello;xin chào
+sieusao;Siêu Sao
+head;cái đầu
+police;cảnh sát
+sao;Trịnh Nam Siêu Sao
